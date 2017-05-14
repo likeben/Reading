@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "sData": {
+         "title": "",
+         "height": 0
+      },
+      "rData": [
+        {
+          "leftIcon": "icon_mine_myAccount_address",
+          "name": "我的畅读",
+          "disc": "每天进步一点"
+        },
+        {
+          "leftIcon": "icon_mine_myAccount_livingCity",
+          "name": "到过的公园",
+          "disc": "5个"
+        },
+        {
+          "leftIcon": "icon_mine_myAccount_password",
+          "name": "阅历",
+          "disc": ""
+        },
+        {
+          "leftIcon": "icon_mine_myAccount_phone",
+          "name": "笔记",
+          "disc": ""
+        }
+      ]
+    },
+    {
+      "sData": {
+        "title": "",
+        "height": 20
+      },
+      "rData": [
+        {
+          "leftIcon": "icon_mine_myAccount_securityQuestion",
+          "name": "收藏",
+          "disc": ""
+        },
+        {
+          "leftIcon": "icon_mine_myAccount_username",
+          "name": "用户指南",
+          "disc": ""
+        },
+        {
+          "leftIcon": "icon_mine_myAccount_setBirthday",
+          "name": "消息",
+          "disc": ""
+        },
+        {
+          "leftIcon": "icon_mine_member_instructions",
+          "name": "设置",
+          "disc": ""
+        }
+      ]
+    }
+  ]
+}

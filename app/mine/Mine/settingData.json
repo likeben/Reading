@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "sData": {
+         "title": "",
+         "height": 20
+      },
+      "rData": [
+        {
+          "leftIcon": "",
+          "name": "消息推送",
+          "disc": "switch"
+        },
+        {
+          "leftIcon": "",
+          "name": "图书借阅",
+          "disc": "switch"
+        },
+        {
+          "leftIcon": "",
+          "name": "解绑设备",
+          "disc": ""
+        }
+      ]
+    },
+    {
+      "sData": {
+        "title": "",
+        "height": 20
+      },
+      "rData": [
+        {
+          "leftIcon": "",
+          "name": "意见反馈",
+          "disc": ""
+        },
+        {
+          "leftIcon": "",
+          "name": "关于技术圈",
+          "disc": ""
+        }
+      ]
+    }
+  ]
+}

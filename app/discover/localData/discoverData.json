@@ -1,0 +1,87 @@
+{
+  "data": [
+    {
+      "sData": {
+         "title": "",
+         "height": 20
+      },
+      "rData": [
+        {
+          "type": 0,
+          "leftIcon": "",
+          "name": "广场热评",
+          "disc": "最实时的消息"
+        },
+        {
+          "type": 0,
+          "leftIcon": "",
+          "name": "好友动态",
+          "disc": "贵圈真热闹"
+        }
+      ]
+    },
+    {
+      "sData": {
+        "sType": 1,
+        "name": "片刻阅读",
+        "disc": "阅读乐趣 片刻拥有",
+        "height": 20
+      },
+      "rData": [
+        {
+          "type": 1,
+          "content":[
+            {"tag": "科技", "img": "keji", "src": ""},
+            {"tag": "经管", "img": "http://upload-images.jianshu.io/upload_images/1268909-22bbeb890734fa75.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240", "src": ""},
+            {"tag": "人文", "img": "http://upload-images.jianshu.io/upload_images/1268909-eb17f7ebd778d091.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240", "src": ""}
+          ]
+        }
+      ]
+    },
+    {
+      "sData": {
+        "sType": 1,
+        "name": "开心一刻",
+        "height": 20
+      },
+      "rData": [
+        {
+          "type": 2,
+          "img": "http://upload-images.jianshu.io/upload_images/1268909-574cb9d3e1bdeacc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240",
+          "title": "小黄人搞笑系列01",
+          "video": "http://120.25.226.186:32812/resources/videos/minion_01.mp4"
+        },
+        {
+          "type": 2,
+          "img": "http://upload-images.jianshu.io/upload_images/1268909-b00075fcd85eb12f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240",
+          "title": "小黄人搞笑系列02",
+          "video": "http://120.25.226.186:32812/resources/videos/minion_02.mp4"
+        },
+        {
+          "type": 2,
+          "img": "http://upload-images.jianshu.io/upload_images/1268909-bcbef6e05f6c3882.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240",
+          "title": "小黄人搞笑系列03",
+          "video": "http://120.25.226.186:32812/resources/videos/minion_03.mp4"
+        },
+        {
+          "type": 2,
+          "img": "http://upload-images.jianshu.io/upload_images/1268909-37620e9e90785e96.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240",
+          "title": "小黄人搞笑系列04",
+          "video": "http://120.25.226.186:32812/resources/videos/minion_04.mp4"
+        },
+        {
+          "type": 2,
+          "img": "http://upload-images.jianshu.io/upload_images/1268909-177bfc1c6eb231ec.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240",
+          "title": "小黄人搞笑系列05",
+          "video": "http://120.25.226.186:32812/resources/videos/minion_05.mp4"
+        },
+        {
+          "type": 2,
+          "img": "http://upload-images.jianshu.io/upload_images/1268909-b00075fcd85eb12f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240",
+          "title": "小黄人搞笑系列06",
+          "video": "http://120.25.226.186:32812/resources/videos/minion_06.mp4"
+        }
+      ]
+    }
+  ]
+}
