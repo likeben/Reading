@@ -6,7 +6,7 @@ a react-native app
 
 git clone
 
-cd Reading
+cd Reading/
 
 npm install 
 
