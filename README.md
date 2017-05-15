@@ -15,7 +15,7 @@ react-native run-android
 ```
 
 ### 演示
-![Demo](https://xs9qug.bn1303.livefilestore.com/y4mWw2HXFREfge_Vtg6paz_7Z501ZvfxR9zsTwsNOuOh4IAoMIKwid_mvitx2yu1ztJdgrCp54N_QtRs96HIbXQQ8QYhM1aUku-pWw1pvjIfgXOJ4tAsOQ4JdLNTzIn6P09bOV2kvM9BoAchUGBIQLjI3lyZSkoJ2-lcD5Xu3Srj8m9W0vTnbYN5YjpRKQQudTCed21cx7nd4_8zJFbmRXuMA?width=146&height=256&cropmode=none)
+![Demo](https://xs9qug.bn1303.livefilestore.com/y4mWw2HXFREfge_Vtg6paz_7Z501ZvfxR9zsTwsNOuOh4IAoMIKwid_mvitx2yu1ztJdgrCp54N_QtRs96HIbXQQ8QYhM1aUku-pWw1pvjIfgXOJ4tAsOQ4JdLNTzIn6P09bOV2kvM9BoAchUGBIQLjI3lyZSkoJ2-lcD5Xu3Srj8m9W0vTnbYN5YjpRKQQudTCed21cx7nd4_8zJFbmRXuMA?width=345&height=606&cropmode=none)
 
 ### 启动页
 ![Launch Page](https://xs9tug.bn1303.livefilestore.com/y4m6Zp2_vgZB3e9d4D4oKoRr7r13jgmDq0W3IoPGjUCe2ZGR1DozB4W7OkOA15o1uZATDN6LSq2XrMalBY8qffzWvvSjAfbU7jh06Hjsckv015mvtNm8wXmCWbb0wr2SuMcffyVuzO8ienqQr16TSiOV64Ay59NtasxlqeaR71d9c_1R0Ws8_afaZ7sd3VJJ80bPjDp1Gl8PtDBRNuzBv2dKQ?width=264&height=450&cropmode=none)
