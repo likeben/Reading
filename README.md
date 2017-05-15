@@ -29,7 +29,7 @@ react-native run-android
 ### 个人中心
 ![Mine Page](https://xs9wug.bn1303.livefilestore.com/y4mVoDSEdcXjApoe1Sa7FuXYKJx5GcDMJg2PnkfB9QuZkHUCAFJ-Jn33WlZx57YGxfKOoCeFUzzyECLrmtfvE9adDVnYreT6N0eJtGZRTKwRaJvJwBPcZ5TcRhDns7YUlskHjyeRqJ1qOoUx-NbrepqeoUoDcqUWuJJv8JRy3SVAsQ17-_rKL7fsoiUprJM-Da3lTvxxKgYOb90vd8ORh6PvQ?width=264&height=450&cropmode=none)
 
-### 注册
+### 登录
 ![Login Page](https://xs9uug.bn1303.livefilestore.com/y4mSzDj5fjYB8OuGqEPsnezvB60tSjbwAcuz41D_LUADs_3paKAXfo4amqvI0FEobkF5Zw9yvZ9dUOr8as-6MC8FRg-oxLSm5oQ5ksHHv_ZK6kTUzQ4Mo4pPxy9zfiE8rbuM3xPCQ_Oe7bs_se7RUijTI6L9dN5RgTVkcN3gQgzx3VvpVo42wBYESBRtPHxfYYmX1dfEGZVHsnM1g5VhklxgQ?width=264&height=450&cropmode=none)
 
 ### 设置
